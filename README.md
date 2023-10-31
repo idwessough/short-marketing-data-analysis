@@ -25,3 +25,6 @@ We need to create a simulated dataset, here's a quick overview  that includes:
 - Satisfaction score after playing (out of 10)
 
 For simplicity, we'll focus on these small amount of features and generate a dataset for, say, 10,000 users.
+
+## User Segmentation
+We need to determine the optimal number of clusters. For that we will use the Elbow Method. We'll plot the sum of squared distances (inertia) for different values of K to identify the "elbow" point, which will give us a good estimate for the number of clusters.​
