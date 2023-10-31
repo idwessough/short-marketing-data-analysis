@@ -1,6 +1,7 @@
 # short-marketing-data-analysis
 # Analysis of gamers behaviors
 In this 
+
 ## Data Generation
 We need to create a simulated dataset, here's a quick overview  that includes:
 
