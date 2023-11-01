@@ -59,6 +59,11 @@ Examples : Gamers with high playtime might be more interested in Subscription Mo
 Younger gamers or those with high multiplayer usage might be more inclined towards Mobile Esports ?
 
 ## Predictions about influence on clusters :
+Insights :
+
+Given the near-random nature of the data, the models are performing as expected. In practice, with a real dataset, we would anticipate clearer patterns and potentially better model performance.
+
+The decision tree model slightly outperforms the logistic regression model in terms of accuracy. However, the difference is marginal, and both models have their own strengths and applications. Logistic regression provides probabilities, which can be useful in certain scenarios, while decision trees offer more interpretable decision-making pathways.
 
 ## Improvments 
 For a more holistic prediction, external factors (e.g., economic indicators, technological advancements) can be incorporated.
