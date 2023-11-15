@@ -6,7 +6,7 @@ Image visuals are in the notebook.
 ## 1) Objectives :
 
 Segment the audience of gamers to predict the impact of evolutions in gameplays and business models on the performance of future games.
-
+#### DISCLAIMER : All the data used here are generated in the next step, that's why analysis and predictions result may not provide as much insights as excpected
 ## 2) Data Generation
 We need to create a simulated dataset, here's a quick overview that includes :
 
